@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  arr = {"hello", "good morning", "goodbye", "good afternoon"}
+  arr = ["hello", "good morning", "goodbye", "good afternoon"]
   arr
   
 end
